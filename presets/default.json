@@ -39,7 +39,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "FluentlyXL-v4.safetensors": "https://civitai.com/api/download/models/361593?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "realvisxlV50_v40LightningBakedvae.safetensors": "https://civitai.com/api/download/models/361593?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
